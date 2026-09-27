@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="kMeans">
+    <entry key="dimensions" type="xint" value="13"/>
+    <entry key="ignoredColumns" type="xint" value="4"/>
+    <config key="clusterCoverage">
+        <entry key="array-size" type="xint" value="6"/>
+        <entry key="0" type="xint" value="57"/>
+        <entry key="1" type="xint" value="819"/>
+        <entry key="2" type="xint" value="389"/>
+        <entry key="3" type="xint" value="715"/>
+        <entry key="4" type="xint" value="275"/>
+        <entry key="5" type="xint" value="22"/>
+    </config>
+    <config key="kMeansCluster0">
+        <entry key="array-size" type="xint" value="9"/>
+        <entry key="0" type="xdouble" value="0.49802262566623773"/>
+        <entry key="1" type="xdouble" value="0.719439958997239"/>
+        <entry key="2" type="xdouble" value="0.8611465013090905"/>
+        <entry key="3" type="xdouble" value="0.55345810135971"/>
+        <entry key="4" type="xdouble" value="-0.14609075681219358"/>
+        <entry key="5" type="xdouble" value="-0.12618048749603616"/>
+        <entry key="6" type="xdouble" value="0.12618048749603641"/>
+        <entry key="7" type="xdouble" value="-5.273572390384972"/>
+        <entry key="8" type="xdouble" value="6.183996966743847"/>
+    </config>
+    <config key="kMeansCluster1">
+        <entry key="array-size" type="xint" value="9"/>
+        <entry key="0" type="xdouble" value="-0.3442724230760166"/>
+        <entry key="1" type="xdouble" value="-0.300687653237844"/>
+        <entry key="2" type="xdouble" value="-0.13305745095776897"/>
+        <entry key="3" type="xdouble" value="-0.30830382337486534"/>
+        <entry key="4" type="xdouble" value="0.9767738955468208"/>
+        <entry key="5" type="xdouble" value="0.4678189734406893"/>
+        <entry key="6" type="xdouble" value="-0.4678189734406893"/>
+        <entry key="7" type="xdouble" value="0.14284821971576023"/>
+        <entry key="8" type="xdouble" value="-0.16163669403836792"/>
+    </config>
+    <config key="kMeansCluster2">
+        <entry key="array-size" type="xint" value="9"/>
+        <entry key="0" type="xdouble" value="0.03002358797852459"/>
+        <entry key="1" type="xdouble" value="-0.014278091010990694"/>
+        <entry key="2" type="xdouble" value="-0.20348913087510212"/>
+        <entry key="3" type="xdouble" value="-0.14103955871476506"/>
+        <entry key="4" type="xdouble" value="-0.3497723430129229"/>
+        <entry key="5" type="xdouble" value="-2.1366402014357386"/>
+        <entry key="6" type="xdouble" value="2.1366402014357386"/>
+        <entry key="7" type="xdouble" value="0.1333655225214052"/>
+        <entry key="8" type="xdouble" value="-0.1616366940383709"/>
+    </config>
+    <config key="kMeansCluster3">
+        <entry key="array-size" type="xint" value="9"/>
+        <entry key="0" type="xdouble" value="-0.3093318226566948"/>
+        <entry key="1" type="xdouble" value="-0.0075195379666797586"/>
+        <entry key="2" type="xdouble" value="-0.11234828766259033"/>
+        <entry key="3" type="xdouble" value="-0.2656307038972942"/>
+        <entry key="4" type="xdouble" value="-1.0233287664676785"/>
+        <entry key="5" type="xdouble" value="0.4678189734406919"/>
+        <entry key="6" type="xdouble" value="-0.4678189734406919"/>
+        <entry key="7" type="xdouble" value="0.16661934465037143"/>
+        <entry key="8" type="xdouble" value="-0.16163669403836792"/>
+    </config>
+    <config key="kMeansCluster4">
+        <entry key="array-size" type="xint" value="9"/>
+        <entry key="0" type="xdouble" value="1.620807842595678"/>
+        <entry key="1" type="xdouble" value="0.23801941351292807"/>
+        <entry key="2" type="xdouble" value="0.36524681363876005"/>
+        <entry key="3" type="xdouble" value="1.636698659112853"/>
+        <entry key="4" type="xdouble" value="0.27128313839989615"/>
+        <entry key="5" type="xdouble" value="0.42046517026112434"/>
+        <entry key="6" type="xdouble" value="-0.42046517026112434"/>
+        <entry key="7" type="xdouble" value="0.18954150083731547"/>
+        <entry key="8" type="xdouble" value="-0.16163669403837072"/>
+    </config>
+    <config key="kMeansCluster5">
+        <entry key="array-size" type="xint" value="9"/>
+        <entry key="0" type="xdouble" value="0.7883066181073272"/>
+        <entry key="1" type="xdouble" value="6.851382666924888"/>
+        <entry key="2" type="xdouble" value="5.406005709013742"/>
+        <entry key="3" type="xdouble" value="0.7114513607766018"/>
+        <entry key="4" type="xdouble" value="0.06763632190387198"/>
+        <entry key="5" type="xdouble" value="0.231049957542836"/>
+        <entry key="6" type="xdouble" value="-0.23104995754283578"/>
+        <entry key="7" type="xdouble" value="-1.7970453686980632"/>
+        <entry key="8" type="xdouble" value="0.12680119963354897"/>
+    </config>
+    <config key="FeatureNames">
+        <entry key="array-size" type="xint" value="13"/>
+        <entry key="0" type="xstring" value="Body-Mass-Index"/>
+        <entry key="1" type="xstring" value="Nüchternblutzucker"/>
+        <entry key="2" type="xstring" value="Glukose-Toleranz-Test"/>
+        <entry key="3" type="xstring" value="Insulinspiegel"/>
+        <entry key="4" type="xstring" value="weiblich_Geschlecht_cat"/>
+        <entry key="5" type="xstring" value="nein_körperliche Aktivität_cat"/>
+        <entry key="6" type="xstring" value="ja_körperliche Aktivität_cat"/>
+        <entry key="7" type="xstring" value="nein_Diabetes_bekannt_cat"/>
+        <entry key="8" type="xstring" value="Prädiabetes_Diabetes_bekannt_cat"/>
+        <entry key="9" type="xstring" isnull="true" value=""/>
+        <entry key="10" type="xstring" isnull="true" value=""/>
+        <entry key="11" type="xstring" isnull="true" value=""/>
+        <entry key="12" type="xstring" isnull="true" value=""/>
+    </config>
+</config>
